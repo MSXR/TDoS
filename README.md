@@ -9,4 +9,4 @@ Threaded DoS attack script in python3<br>
 ## Notes
 -Simultaneous activity will be more efficient<br>
 -See License<br>
-<span style='color:red'>-Creator is not responsible for you actions. Please use responsibly and legally.</span><br>
+-Creator is not responsible for you actions. Please use responsibly and legally.</span><br>
